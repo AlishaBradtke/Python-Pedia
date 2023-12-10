@@ -1,0 +1,19 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+	Lead Developer: Parbhat Puri
+	Contact: me [at] parbhatpuri.com 
+	Twitter: @parbhatpuri
+    Github: @parbhat
+    Blog: https://parbhatpuri.com
+
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
